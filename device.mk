@@ -117,7 +117,7 @@ PRODUCT_CHARACTERISTICS := nosdcard
 DEVICE_PACKAGE_OVERLAYS := \
     device/moto/shamu/overlay
 
-PRODUCT_PACKAGES := \
+PRODUCT_PACKAGES += \
     libwpa_client \
     hostapd \
     wificond \
