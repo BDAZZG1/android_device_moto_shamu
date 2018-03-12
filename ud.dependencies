@@ -1,0 +1,13 @@
+
+[
+ {
+   "repository":  "BDAZZG1/kernel_motorola_shamu",
+   "target_path": "kernel/motorola/shamu",
+   "branch":      "o81"
+ },
+ {
+   "repository":  "BDAZZG1/vendor_motorola",
+   "target_path": "vendor/motorola",
+   "branch":      "o81"
+ }
+]
